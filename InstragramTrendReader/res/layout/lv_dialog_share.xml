@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutLvShare"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="5dp" >
+
+    <ImageView
+        android:id="@+id/imgLvItem"
+        android:layout_width="@dimen/lv_dialogshare_btn_size"
+        android:layout_height="@dimen/lv_dialogshare_btn_size" />
+
+    <TextView
+        android:id="@+id/txtLvItem"
+        style="@style/EstiloTextoRedSocial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="TextView" />
+
+</LinearLayout>

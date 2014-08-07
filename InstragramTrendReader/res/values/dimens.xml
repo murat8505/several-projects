@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Letra -->
+    <dimen name="letra_pequenha">10sp</dimen>
+    <dimen name="letra_mediana">14sp</dimen>
+    <dimen name="letra_grande">18sp</dimen>
+
+    <!-- Main -->
+    <dimen name="imv_upper_padding">5dp</dimen>
+
+    <!-- Details -->
+    <dimen name="details_txt_value_thumbnail_margin">10dp</dimen>
+    <dimen name="lv_dialogshare_btn_size">48dp</dimen>
+    <!-- <dimen name="details_imv_width">80dp</dimen>
+    <dimen name="details_imv_height">80dp</dimen> -->
+	<dimen name="details_layout_imv_padding">10dp</dimen>
+</resources>

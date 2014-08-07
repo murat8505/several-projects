@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <color name="azul_hololight">#33B5E5</color>
+    
+    <color name="gris">#EAEAEA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="prueba">#FF0000</color>
+    <color name="black">#000000</color>
+    <!-- Modules -->
+    <color name="thumbnail_highlight">@color/azul_hololight</color>
+    <color name="thumbnail_gallery">@color/gris</color>
+    <color name="page_indicator_off">#FF2E3D98</color>
+    <color name="page_indicator_on">#FF8E99CD</color>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">TestKogi (Gallery)</string>
+
+    <!-- Error -->
+    <string name="error_title">Error</string>
+    <string name="error_nored">It can\'t connect the network</string>
+    <string name="error_nomanejado">Unknow error</string>
+    <string name="error_share_app">You can\'t share because the application of your social network of choice is not installed. Please install it.</string>
+    
+    <!-- Warning -->
+    <string name="msg_load_feed">Wait while loading data</string>
+
+    <!-- Modulo My Gallery App -->
+    <string name="title_my_gallery_app">My Gallery App</string>
+
+    <!-- Module Details -->
+    <string name="details_publish_date">Publish Date:</string>
+    <string name="details_username">Author:</string>
+    <string name="details_tag">Tag:</string>
+    <string name="details_dialog_title_share">Share via</string>
+    <string name="details_lv_share_twitter">Twitter</string>
+    <string name="details_lv_share_whatsapp">WhatsApp</string>
+    
+    <!-- Module Profile -->
+    <string name="profile_title">Profile</string>
+
+</resources>

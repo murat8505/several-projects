@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices land (e.g. 10" tablets).
+    -->
+        
+	<dimen name="activity_horizontal_margin">36dp</dimen>
+    <dimen name="activity_vertical_margin">36dp</dimen>
+    
+     <!-- Letra -->
+    <dimen name="letra_pequenha">40sp</dimen>
+    <dimen name="letra_mediana">45sp</dimen>
+    <dimen name="letra_grande">50sp</dimen>
+    
+    <!-- Main -->
+    <dimen name="imv_upper_padding">15dp</dimen>
+    
+    <!-- details -->
+    <dimen name="details_txt_value_thumbnail_margin">35dp</dimen>
+    <dimen name="lv_dialogshare_btn_size">144dp</dimen>
+    <dimen name="details_layout_imv_padding">30dp</dimen>
+    
+</resources>

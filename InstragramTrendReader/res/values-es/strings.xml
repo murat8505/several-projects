@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">TestKogi (Gallery)</string>
+
+    <!-- Error -->
+    <string name="error_title">Error</string>
+    <string name="error_nored">No se puede conectar a una red</string>
+    <string name="error_nomanejado">Error desconocido</string>
+    <string name="error_share_app">No puede compartir porque su red social seleccionada no está instalada en su equipo.</string>
+    
+    <!-- Warning -->
+    <string name="msg_load_feed">Espere mientras carga los datos</string>
+
+    <!-- Modulo My Gallery App -->
+    <string name="title_my_gallery_app">My Gallery App</string>
+
+    <!-- Module Details -->
+    <string name="details_publish_date">Fecha de Publicación:</string>
+    <string name="details_username">Autor:</string>
+    <string name="details_tag">Tag:</string>
+    <string name="details_dialog_title_share">Comparta en</string>
+    <string name="details_lv_share_twitter">Twitter</string>
+    <string name="details_lv_share_whatsapp">WhatsApp</string>
+    
+    <!-- Module Profile -->
+    <string name="profile_title">Perfil</string>
+</resources>

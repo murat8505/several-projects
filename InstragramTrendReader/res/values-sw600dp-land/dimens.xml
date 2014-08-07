@@ -1,0 +1,18 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+    
+    <!-- letra -->
+    <dimen name="letra_pequenha">25sp</dimen>
+    <dimen name="letra_mediana">30sp</dimen>
+    <dimen name="letra_grande">35sp</dimen>
+    
+    <!-- Main -->
+    <dimen name="imv_upper_padding">10dp</dimen>
+    
+    <!-- Details -->
+    <dimen name="details_txt_value_thumbnail_margin">40dp</dimen>
+    <dimen name="details_layout_imv_padding">30dp</dimen>
+
+</resources>

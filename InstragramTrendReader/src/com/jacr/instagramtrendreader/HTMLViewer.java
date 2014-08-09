@@ -33,7 +33,6 @@ import com.actionbarsherlock.view.MenuItem;
 import com.jacr.instagramtrendreader.core.BaseActivity;
 import com.jacr.instagramtrendreader.core.Global;
 import com.jacr.instagramtrendreader.utils.Util;
-import com.jacr.pruebakogithree.R;
 
 public class HTMLViewer extends BaseActivity {
 

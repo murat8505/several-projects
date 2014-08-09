@@ -2,7 +2,7 @@
 <resources>
 
     <!-- General -->
-    <string name="app_name">TestKogi (Gallery)</string>
+    <string name="app_name">InstaTrendReader</string>
 
     <!-- Error -->
     <string name="error_title">Error</string>

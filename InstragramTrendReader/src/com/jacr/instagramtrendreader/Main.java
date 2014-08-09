@@ -66,7 +66,6 @@ import com.jacr.instagramtrendreader.core.Global;
 import com.jacr.instagramtrendreader.core.IBase;
 import com.jacr.instagramtrendreader.utils.Messages;
 import com.jacr.instagramtrendreader.utils.Util;
-import com.jacr.pruebakogithree.R;
 
 /**
  * Main Class.

@@ -18,6 +18,8 @@ package com.jacr.instagramtrendreader.share;
 
 import java.util.List;
 
+import com.jacr.instagramtrendreader.R;
+
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Color;
@@ -28,8 +30,6 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
-import com.jacr.pruebakogithree.R;
 
 /**
  * Adapter for Social network listview.

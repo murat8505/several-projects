@@ -35,8 +35,8 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.jacr.instagramtrendreader.R;
 import com.jacr.instagramtrendreader.utils.Messages;
-import com.jacr.pruebakogithree.R;
 
 /**
  * Dialog for Social Networks.

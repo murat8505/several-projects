@@ -18,12 +18,12 @@ package com.jacr.instagramtrendreader.core;
 
 import java.io.File;
 
+import com.jacr.instagramtrendreader.R;
+
 import android.app.Application;
 import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
 import android.os.Environment;
-
-import com.jacr.pruebakogithree.R;
 
 public class Global extends Application {
 

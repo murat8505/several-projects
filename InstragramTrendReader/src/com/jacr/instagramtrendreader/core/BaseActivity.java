@@ -22,8 +22,8 @@ import android.os.StrictMode;
 import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.actionbarsherlock.view.MenuItem;
+import com.jacr.instagramtrendreader.R;
 import com.jacr.instagramtrendreader.share.ShareDialog;
-import com.jacr.pruebakogithree.R;
 
 public abstract class BaseActivity extends SherlockFragmentActivity {
 
@@ -33,7 +33,7 @@ public abstract class BaseActivity extends SherlockFragmentActivity {
 	protected void onCreate(Bundle arg0) {
 		super.onCreate(arg0);
 		
-		/* Habilitando permisos */
+		/* More Permissions */
 		StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder()
 				.permitAll().build();
 		StrictMode.setThreadPolicy(policy);

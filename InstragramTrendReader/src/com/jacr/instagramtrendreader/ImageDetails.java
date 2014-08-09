@@ -32,7 +32,6 @@ import com.jacr.instagramtrendreader.Main.FeedReader;
 import com.jacr.instagramtrendreader.core.BaseActivity;
 import com.jacr.instagramtrendreader.core.IBase;
 import com.jacr.instagramtrendreader.utils.Util;
-import com.jacr.pruebakogithree.R;
 import com.viewpagerindicator.CirclePageIndicator;
 
 public class ImageDetails extends BaseActivity implements IBase {

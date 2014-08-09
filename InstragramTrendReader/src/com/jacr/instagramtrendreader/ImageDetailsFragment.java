@@ -35,7 +35,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.jacr.instagramtrendreader.utils.Util;
-import com.jacr.pruebakogithree.R;
 
 public class ImageDetailsFragment extends Fragment {
 

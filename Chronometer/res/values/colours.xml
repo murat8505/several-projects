@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <color name="azul">#33B5E5</color>
+    <color name="verde">#38C019</color>
+    <color name="rojo">#FF0000</color>
+    <color name="amarillo">#E3EA25</color>
+
+</resources>

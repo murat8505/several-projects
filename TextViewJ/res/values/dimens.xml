@@ -1,7 +1,0 @@
-<resources>
-
-    <dimen name="textviewj_default_line_spacing">2dp</dimen>
-    <dimen name="textviewj_default_max_wordspacing">25dp</dimen>
-          
-
-</resources>

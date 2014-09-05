@@ -1,7 +1,0 @@
-int attr lineSpacing 0x7f010000
-int attr wordsByLine 0x7f010001
-int color textviewj_default_background_color 0x7f020000
-int dimen textviewj_default_line_spacing 0x7f030000
-int[] styleable TextViewJ { 0x7f010000, 0x7f010001 }
-int styleable TextViewJ_lineSpacing 0
-int styleable TextViewJ_wordsByLine 1
